@@ -8,6 +8,9 @@ function Menu() {
         <Link href='#projects' underline='hover'>
           {'Portfolio'}
         </Link>
+        <Link href='https://jtsblog.netlify.app/' underline='hover'>
+          {'Blog'}
+        </Link>
         <Link href='#inspiration' underline='hover'>
           {'Inspiration'}
         </Link>
